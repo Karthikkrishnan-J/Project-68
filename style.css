@@ -1,0 +1,14 @@
+.Menu{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    margin-top: 0px;
+    background-color:rgb(217, 255, 0);
+    font-size: medium;
+    font-family: cursive;
+}
+.Video{
+    width: 100pc;
+    height: 500px;
+    border: none;
+}
